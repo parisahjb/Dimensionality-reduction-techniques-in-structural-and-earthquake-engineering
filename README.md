@@ -1,4 +1,6 @@
 Abstract
+
+
 Dimensionality reduction (DR) techniques are increasingly crucial in engineering and scientific applications for feature extraction and data visualization purposes. This repository presents a comprehensive evaluation of various dimensionality reduction techniques for analyzing a cognate set of computational and experimental data in the field of structural and earthquake engineering, considering varying numbers of classes.
 
 In the context of class-imbalanced data sets, where observations in each class are disproportionate, the main objective of this study is to assess the performance of different DR techniques and classifiers. The research utilizes a synthetic data set generated through computer simulations, characterizing risks posed by earthquakes to structures. The data is classified into three, five, and eight classes based on the severity of damage in the simulations. Additionally, three existing multi-class imbalanced data sets, developed independently, are also used for evaluation.
