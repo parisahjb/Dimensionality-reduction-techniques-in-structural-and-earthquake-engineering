@@ -62,4 +62,9 @@ Launch Jupyter Notebook and open the desired notebook (e.g., 3class_TowerDamage_
 
 Follow the instructions in the notebook to execute the code and reproduce the experiments.
 
+Citation: If you find this work useful for your research, please consider citing:
+
+Hajibabaee, P., Pourkamali-Anaraki, F., & Hariri-Ardebili, M. A. (2023). Dimensionality reduction techniques in structural and earthquake engineering. Engineering Structures, 278, 115485.
+
+Paper Link: https://www.sciencedirect.com/science/article/pii/S0141029622015619?casa_token=bqVBbPuh3WkAAAAA:80D-gXo9jBFCiyt-3kRwDFp7jp7Wc-fSB-pYw3XIv_PK5f8cGgS558FgaRPUPuIQPyzgnFK8RiI
 
