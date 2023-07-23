@@ -56,7 +56,7 @@ How to Use
 Clone the repository to your local machine:
 bash
 Copy code
-git clone [https://github.com/yourusername/your-repo-name.git](https://github.com/parisahjb/Dimensionality-reduction-techniques-in-structural-and-earthquake-engineering.git)
+git clone (https://github.com/parisahjb/Dimensionality-reduction-techniques-in-structural-and-earthquake-engineering.git)
 Install the required dependencies using pip:
 Copy code
 pip install numpy scipy scikit-learn imbalanced-learn matplotlib seaborn
